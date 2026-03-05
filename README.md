@@ -47,7 +47,7 @@ DDoS-attack-detection
 
 ### 1. Clone the repository
 
-git clone https://github.com/Rakshan-kulkarni/DDoS-attack-detection
+git clone https://github.com/Rakshan-kulkarni/DDoS-attack-detection-and-analysis.git
 
 ### 2. Navigate to the project directory
 
